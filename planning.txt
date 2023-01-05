@@ -1,1 +1,3 @@
 Cinephile App
+
+Sebuah website comparing film yang berisi kumpulan movie dan series dengan tujuan untuk membantu pengguna mengetahui film mana yang terbaik untuk ditonton.
